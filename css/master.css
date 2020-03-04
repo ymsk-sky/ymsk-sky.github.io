@@ -1,3 +1,4 @@
+/* for NAVBAR */
 .navbar-brand > img {
   height: 40px;
 }
@@ -10,6 +11,12 @@
   font-size: 20px;
 }
 
+/* for WORKS */
+.works-content .card {
+  width: 18rem;
+}
+
+/* for CONTACT */
 .contact-list img {
   width: 60px;
 }
