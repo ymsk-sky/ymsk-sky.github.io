@@ -11,6 +11,12 @@
   font-size: 20px;
 }
 
+/* for PROFILE */
+.my-icon {
+  height: 200px;
+  border-radius: 50%;
+}
+
 /* for WORKS */
 .works-content .card {
   width: 18rem;
