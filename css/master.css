@@ -19,7 +19,11 @@
 
 /* for WORKS */
 .works-content .card {
-  width: 18rem;
+  width: 16rem;
+}
+
+.picshare-img {
+  padding: 5%;
 }
 
 /* for CONTACT */
