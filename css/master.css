@@ -11,6 +11,15 @@
   font-size: 20px;
 }
 
+/* for HOME */
+#home {
+  font-size: 80px;
+}
+
+.home-description {
+  font-size: 30px;
+}
+
 /* for PROFILE */
 .my-icon {
   height: 200px;
