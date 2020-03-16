@@ -32,6 +32,10 @@ body, html {
   border-radius: 50%;
 }
 
+.profile-sentence {
+  font-size: 12px;
+}
+
 /* for WORKS */
 .works-content .card {
   width: 16rem;
