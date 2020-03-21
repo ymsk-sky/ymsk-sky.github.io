@@ -1,4 +1,4 @@
 function addCats() {
-  var body = document.getElementsByClassName("container")[0];
-  body.style.backgroundImage = "url(img/footprint.png)";
+  const body = document.body;
+  body.style.backgroundImage = "url(img/footprints.png)";
 }
