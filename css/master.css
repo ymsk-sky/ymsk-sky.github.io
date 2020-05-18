@@ -47,6 +47,10 @@ body, html {
   padding: 5%;
 }
 
+.portfolio-img {
+  padding: 5%;
+}
+
 /* for CONTACT */
 .contact-list img {
   width: 30px;
