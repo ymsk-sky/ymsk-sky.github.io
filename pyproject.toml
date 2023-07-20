@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "ymsk-sky-github-io"
+version = "0.1.0"
+description = ""
+authors = ["ymsk-sky <ymsk.sky.95@gmail.com>"]
+readme = "README.md"
+packages = [{include = "ymsk_sky"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[tool.poetry.group.dev.dependencies]
+flake8 = "^6.0.0"
+black = "^23.7.0"
+pre-commit = "^3.3.3"
+sphinx = "^7.0.1"
+furo = "^2023.5.20"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
