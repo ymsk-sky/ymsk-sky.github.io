@@ -8,6 +8,8 @@ packages = [{include = "ymsk_sky"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+mkdocs = "^1.4.3"
+mkdocs-material = "^9.1.19"
 
 
 [build-system]
