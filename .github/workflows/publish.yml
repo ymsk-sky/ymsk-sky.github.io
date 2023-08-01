@@ -1,0 +1,17 @@
+name: publish
+
+on:
+  push:
+    branchs:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+      - run: pip install mkdocs-material
+      - run: mkdocs gh-deploy --force

@@ -1,27 +1,17 @@
-site_name: My Docs
+site_name: ymsk-sky.github.io
 
 nav:
   - HOME: index.md
   - ABOUT: about.md
   - WORKS: works.md
+  - CONTACT: contact.md
+
+repo_url: https://github.com/ymsk-sky/ymsk-sky.github.io
+repo_name: source
 
 theme:
   name: material
   palette:
     primary: blue grey
-
-on:
-  push:
-    branchs:
-      - main
-      - master
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checout@v3
-      - uses: actions/setup-python@v4
-        with:
-          python-version: 3.10
-      - run: pip install mkdocs-material
-      - run: mkdocs gh-deploy --force
+  icon:
+    repo: fontawesome/brands/github
