@@ -1,5 +1,10 @@
 site_name: My Docs
 
+nav:
+  - HOME: index.md
+  - ABOUT: about.md
+  - WORKS: works.md
+
 theme:
   name: material
   palette:
