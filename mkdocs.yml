@@ -11,7 +11,12 @@ repo_name: source
 
 theme:
   name: material
+  language: ja
   palette:
     primary: blue grey
   icon:
     repo: fontawesome/brands/github
+
+extra:
+  search:
+    language: jp
