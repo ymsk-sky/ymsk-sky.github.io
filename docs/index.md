@@ -1,17 +1,33 @@
-# Welcome to MkDocs
+# プロフィール
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 自己紹介
 
-## Commands
+* `ハンドルネーム`: ymsk-sky
+* `誕生年`: 1993年
+* `所在地`: 千葉県
+* `現職`: AI開発エンジニア
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## スキル
 
-## Project layout
+### 言語
+- python
+- C
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### ライブラリ
+
+### ツール
+- Git
+- Docker
+
+## つくったもの
+
+- Kakizome
+- picshare
+- mute_booth
+
+## コンタクト
+
+&ensp;<a href="https://github.com/ymsk-sky" target="_blank"><img src="./img/github.png" width="30"></a>
+&ensp;<a href="https://qiita.com/ymsk_sky" target="_blank"><img src="./img/qiita.png" width="30"></a>
+&ensp;<a href="https://twitter.com/ymsksky" target="_blank"><img src="./img/X.png" width="30"></a>
+&ensp;<a href="https://atcoder.jp/users/ymsksky" target="_blank"><img src="./img/atcoder.svg" width="30"></a>

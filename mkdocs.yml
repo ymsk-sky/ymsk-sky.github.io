@@ -1,17 +1,19 @@
 site_name: ymsk-sky.github.io
 
 nav:
-  - HOME: index.md
-  - ABOUT: about.md
-  - WORKS: works.md
-  - CONTACT: contact.md
+  - index.md
 
 repo_url: https://github.com/ymsk-sky/ymsk-sky.github.io
 repo_name: source
 
 theme:
   name: material
+  language: ja
   palette:
     primary: blue grey
   icon:
     repo: fontawesome/brands/github
+
+extra:
+  search:
+    language: jp
