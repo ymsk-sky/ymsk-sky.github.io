@@ -21,9 +21,17 @@
 
 ## つくったもの
 
-- Kakizome
-- picshare
-- mute_booth
+### Kakizome
+`Ruby on Rails`で[Railsチュートリアル](https://railstutorial.jp/)を参考に作成.  
+加えて, html, javascriptのcanvasに文字を書けるような所謂ペイント機能を実装.
+
+### picshare
+フロントエンドを`Vue.js`, バックエンドを`Laravel`で作成.  
+また, `Docker`(`Docker Compose`)による仮想環境構築を行い, その学習も兼ねていた.
+
+### mute_booth
+`Chrome拡張機能`を初めて作成してみた.  
+ノウハウや動作の書き方について`ChatGPT(3.5)`へプロンプトを投げ, 自分の実装したいことをコードに落とし込んでもらい調整しながら実装した.
 
 ## コンタクト
 
